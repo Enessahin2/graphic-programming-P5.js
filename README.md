@@ -49,3 +49,52 @@ This is a simulation experience that prioritizes interaction and immersion.
 
 There is no file management or drag-and-drop capability — all behaviors are scripted for visual and interactive effect.
 ![Ekran görüntüsü 2025-06-09 144117](https://github.com/user-attachments/assets/5607e72c-95ef-4d1b-bae2-a74477aa04ec)
+
+
+
+
+
+
+
+# PROJE 2 🦅🦁
+
+[MuhammetEnes-Sahin-030722041_2025_06_09_11_08_24.zip](https://github.com/user-attachments/files/20654266/MuhammetEnes-Sahin-030722041_2025_06_09_11_08_24.zip)
+
+
+📌FrameFlow: Frame-by-Frame Animation & Sound Synchronization in JavaScript
+
+📄 Project Description (English):
+
+This project demonstrates a simple yet effective frame-by-frame animation technique using p5.js. A sequence of individual images is displayed one after another in a timed loop, creating the illusion of motion—similar to traditional animation or stop-motion video.
+
+🧩 Features:
+
+Animal Animation:
+The animation includes multiple animals: an eagle, a bird, and a horse. Their movements are shown using consecutive images displayed in a loop, simulating lifelike motion.
+
+Timed Sound Effects:
+Each animal is accompanied by synchronized sound effects triggered at specific frame intervals. This adds realism and rhythm to the animation.
+
+Static Visual Element:
+An image of a lion appears once and remains static on the screen throughout the animation. Unlike other animals, it does not loop, helping to balance the composition visually.
+
+🖼️ Resources:
+
+All image and audio files are externally hosted via FileGarden links and dynamically loaded into the program.
+
+Assets are organized and referenced efficiently for optimal performance and loading time.
+
+🎯 Purpose:
+
+This project aims to experiment with traditional frame-by-frame animation techniques and sound timing within the p5.js framework, blending visuals and audio for a compelling animated sketch.
+
+📁 Technologies Used:
+
+JavaScript
+
+p5.js
+
+External media hosting (FileGarden)
+
+![Ekran görüntüsü 2025-06-09 144827](https://github.com/user-attachments/assets/4766b8b4-87ee-4d88-8e85-81d587f3fe9f)
+

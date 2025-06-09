@@ -139,3 +139,46 @@ p5.js or custom canvas rendering
 
 
 ![Ekran görüntüsü 2025-06-09 162748](https://github.com/user-attachments/assets/e56458ff-69fd-4288-8d92-2500c26eadc8)
+
+
+# PROJE 4
+[030722041_2025_06_09_13_39_04.zip](https://github.com/user-attachments/files/20655641/030722041_2025_06_09_13_39_04.zip)
+
+
+📌 DropCircle: Dynamic Circle Generator with Physics Simulation
+
+📄 Project Description :
+
+DropCircle is an interactive simulation that allows users to create, customize, and drop circles influenced by gravity and horizontal momentum. The main circle can be resized and recolored, and users can drag it across the canvas. Smaller circles are spawned from its center with randomized colors and sizes, falling under gravity with lateral motion, eventually leaving the screen.
+
+🧩 Features:
+
+Draggable Main Circle:
+Users can move the primary large circle across the screen with the mouse.
+
+Customization:
+The size and color of the main circle can be changed via an input field and color picker.
+
+Dynamic Small Circles:
+Clicking “Drop Small Circle” spawns a mini ball from the center of the main one, with randomized size, color, and velocity.
+
+Gravity Simulation:
+Dropped circles fall under a gravity-like force and drift sideways (left or right) to simulate real physics.
+
+Clean Exit:
+Once small circles exit the visible canvas, they are removed from simulation for performance.
+
+🎯 Purpose:
+
+This playful project combines UI control with basic physics simulation, useful for understanding forces like gravity and motion, while also offering creative visual outcomes.
+
+📁 Technologies Used:
+
+JavaScript
+
+HTML/CSS
+
+Canvas API (possibly p5.js or custom)
+
+
+![Ekran görüntüsü 2025-06-09 163515](https://github.com/user-attachments/assets/5a0df8ce-05c4-42ec-8257-fb2edf6b48d2)

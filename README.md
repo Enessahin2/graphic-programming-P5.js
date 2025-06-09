@@ -182,3 +182,31 @@ Canvas API (possibly p5.js or custom)
 
 
 ![Ekran görüntüsü 2025-06-09 163515](https://github.com/user-attachments/assets/5a0df8ce-05c4-42ec-8257-fb2edf6b48d2)
+
+
+# PROJE 5
+
+[030722041_2025_06_09_13_43_44.zip](https://github.com/user-attachments/files/20655691/030722041_2025_06_09_13_43_44.zip)
+
+
+📌 DriveControl: Mouse-Interactive Mini Vehicle Simulation
+
+📄 Description:
+
+DriveControl is a simple animation where a car responds to mouse events. When the mouse hovers over the car, its color changes to indicate interactivity. Left-clicking increases speed, right-clicking slows it down, and clicking the middle wheel stops the vehicle completely. The project offers a fully mouse-controlled interaction without needing a keyboard.
+
+🧩 Features:
+
+Color Change on Hover
+
+Left Click: Speed up
+
+Right Click: Slow down
+
+Middle Wheel Click: Full stop
+
+🎯 Purpose:
+
+Perfect for demonstrating how mouse inputs can be used to control animation. It’s especially useful for early learners exploring interactivity and animation basics.
+
+![Ekran görüntüsü 2025-06-09 164245](https://github.com/user-attachments/assets/78a8cc54-4a49-46bb-93c8-de09096a575e)

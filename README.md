@@ -98,3 +98,44 @@ External media hosting (FileGarden)
 
 ![Ekran görüntüsü 2025-06-09 144827](https://github.com/user-attachments/assets/4766b8b4-87ee-4d88-8e85-81d587f3fe9f)
 
+
+# PROJE 3
+
+[030722041_2025_06_09_13_31_12.zip](https://github.com/user-attachments/files/20655549/030722041_2025_06_09_13_31_12.zip)
+
+
+📌 OrbitSim: Interactive Planetary System Simulation with JavaScript
+
+📄 Project Description:
+
+This project simulates a miniature planetary system with interactive controls using JavaScript (likely with the p5.js library). A central sun is orbited by three planets, each with its own orbit radius and behavior. Users can interactively manipulate the speed, direction, and position of the planets and the sun.
+
+🧩 Features:
+
+Three Planets:
+Numbered 1 to 3. Pressing keys 1, 2, or 3 selects a planet to control.
+
+Dynamic Speed:
+The selected planet’s orbital speed can be increased or decreased using the ↑ and ↓ arrow keys.
+
+Orbit Direction:
+Change the rotation direction of the selected planet using ← and → arrow keys.
+
+Mouse-Driven Sun Movement:
+Users can click and drag the sun to move the entire solar system. Planets follow the sun’s new position while maintaining their orbits.
+
+Visual Feedback:
+A status display shows the currently selected planet, the direction, motion state (e.g., active), and any changes made via the keyboard or mouse.
+
+🎯 Purpose:
+
+This simulation is intended to help users understand orbital mechanics in a simplified, gamified environment. It also offers a chance to explore vector movement, rotation systems, and user-driven transformations in a graphical context.
+
+📁 Technologies Used:
+
+JavaScript
+
+p5.js or custom canvas rendering
+
+
+![Ekran görüntüsü 2025-06-09 162748](https://github.com/user-attachments/assets/e56458ff-69fd-4288-8d92-2500c26eadc8)
